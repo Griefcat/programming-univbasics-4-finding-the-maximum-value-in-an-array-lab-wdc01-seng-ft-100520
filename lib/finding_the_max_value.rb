@@ -10,5 +10,5 @@ def find_min_value(array)
 end
 max_value 
 end 
-fun = [1,2,6,7,3,9,1,2,2]
+fun = [9,2,6,7,3,9,8,2,2]
 find_min_value(fun)
